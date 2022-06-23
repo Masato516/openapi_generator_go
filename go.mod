@@ -1,4 +1,4 @@
-module github.com/GIT_USER_ID/GIT_REPO_ID
+module github.com/Masato516/openapi_generator_go
 
 go 1.13
 
