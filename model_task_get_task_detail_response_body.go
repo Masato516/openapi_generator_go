@@ -13,6 +13,7 @@ package openapi
 import (
 	"encoding/json"
 	"time"
+	"os"
 )
 
 // TaskGetTaskDetailResponseBody struct for TaskGetTaskDetailResponseBody

@@ -13,6 +13,7 @@ package openapi
 import (
 	"encoding/json"
 	"time"
+	"os"
 )
 
 // TaskUpdateTaskIgnoreResponseBody struct for TaskUpdateTaskIgnoreResponseBody
